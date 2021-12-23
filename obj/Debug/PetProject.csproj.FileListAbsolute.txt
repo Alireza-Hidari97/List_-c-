@@ -1,0 +1,7 @@
+C:\Users\AdminWCI\source\repos\PetProject\bin\Debug\PetProject.exe.config
+C:\Users\AdminWCI\source\repos\PetProject\bin\Debug\PetProject.exe
+C:\Users\AdminWCI\source\repos\PetProject\bin\Debug\PetProject.pdb
+C:\Users\AdminWCI\source\repos\PetProject\obj\Debug\PetProject.csprojAssemblyReference.cache
+C:\Users\AdminWCI\source\repos\PetProject\obj\Debug\PetProject.csproj.CoreCompileInputs.cache
+C:\Users\AdminWCI\source\repos\PetProject\obj\Debug\PetProject.exe
+C:\Users\AdminWCI\source\repos\PetProject\obj\Debug\PetProject.pdb
